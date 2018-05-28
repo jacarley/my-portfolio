@@ -7,3 +7,7 @@ This is my learning portfolio. It uses AWS and ReactJS.
 Atom
 Git and github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts 
